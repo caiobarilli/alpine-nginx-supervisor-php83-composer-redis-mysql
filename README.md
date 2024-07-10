@@ -13,8 +13,6 @@
 **Redis**: Utilizado para armazenamento em cache, gerenciamento de sessão e comunicação entre componentes de aplicativos devido à sua alta velocidade e eficiência.
 
 ## Requisitos
-- PHP instalado
-- Composer instalado
 - Docker instalado
 - Docker Compose instalado
 
